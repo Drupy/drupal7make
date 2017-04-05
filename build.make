@@ -1,5 +1,6 @@
 
 api = 2
+core = 7.53
 
 ; For Drupal 7:
 projects[drupal][type] = "core"
